@@ -1,0 +1,2 @@
+requests>=2.12.4
+python-jwt>=3.3.0
